@@ -1,4 +1,10 @@
-# 🛰️ Monitoramento Inteligente de Tráfego e Fauna  
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Detection-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+# 🛰️ Monitoramento Inteligente de Tráfego em tempo real.   
 ### YOLOv8 + ByteTrack + Streamlit — Versão 1.0
 
 Este projeto implementa um sistema completo de **monitoramento inteligente em tempo real**, capaz de analisar fluxos urbanos, rodoviários e ambientais utilizando visão computacional avançada.
