@@ -1,4 +1,4 @@
-# 🗺️ Roadmap — Monitoramento Inteligente de Tráfego e Fauna
+# 🗺️ Roadmap — Monitoramento Inteligente de Tráfego em tempo real.
 Planejamento oficial de evolução do projeto, dividido em versões, prioridades e entregáveis.
 
 ---
