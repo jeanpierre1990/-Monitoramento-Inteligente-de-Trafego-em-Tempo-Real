@@ -1,0 +1,7 @@
+monitoramento-inteligente-v1/
+│
+├── dashboard_trafego.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── bytetrack.yaml   ← este aqui
